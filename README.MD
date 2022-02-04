@@ -11,4 +11,4 @@ and Open Infrastructure.
 
 ## Highlights
 
-<a href="url"><img src="BuS-workshop.jpg" align="left" height="256" width="256" ></a>
+<a href="url"><img src="images/BuS-workshop.jpg" align="left" height="256" width="256" ></a>
