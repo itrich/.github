@@ -1,3 +1,5 @@
+![images/header.jpeg](images/header.jpeg)
+
 Hello, my name is Eduard Itrich! I'm an open-source and infrastructure evangelist 
 currently empowering the [Sovereign Cloud Stack](https://scs.community) community at the [OSB Alliance 
 (Open Source Business Alliance)](https://osb-alliance.com). After graduating from university,
