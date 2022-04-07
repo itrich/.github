@@ -10,6 +10,3 @@ the head of digitalization and IT of a medium-sized town in southwestern Germany
 In my spare time, I hang around at [Section77 e.V](https://section77.de/). — a local Hackspace in Offenburg.
 Follow me for varied content on eGovernment, Civic Tech, Smart City, Open Source,
 and Open Infrastructure.
-
-## Highlights
-<a href="https://www.fes.de/veranstaltungen/veranstaltungsdetail?tx_fesdeevents_eventdetails%5Baction%5D=show&tx_fesdeevents_eventdetails%5Bcontroller%5D=EventDetail&tx_fesdeevents_eventdetails%5Bevent%5D=257498&cHash=b3c103dd9d3f2d296bc5585b4f9ff34c"><img src="images/FES-studie.png" align="left" height="256" width="256" ></a>
