@@ -7,5 +7,5 @@ I was part of a software development team and responsible for the release manage
 Linux enterprise distribution. Following up my two-year parental leave, during which 
 I orchestrated my twin daughters rather than continuous deployment pipelines, I became 
 the head of digitalization and IT of a medium-sized town in southwestern Germany.
-In my spare time, I hang around at [Section77 e.V](https://section77.de/). — a local Hackspace in Offenburg.
+Ocassionally, I hang around at [Section77 e.V](https://section77.de/). — a local Hackspace in Offenburg.
 Follow me for varied content on Civic Tech, Open Source, and Open Infrastructure.
