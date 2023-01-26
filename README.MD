@@ -1,4 +1,4 @@
-![images/header.jpeg](images/header.jpeg)
+[![An image of @itrich's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itrich)](https://holopin.io/@itrich)
 
 Hello, my name is Eduard Itrich! I'm an open-source community manager
 currently empowering the [Sovereign Cloud Stack](https://scs.community) community at the [OSB Alliance 
