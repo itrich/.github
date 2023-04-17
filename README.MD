@@ -1,11 +1,3 @@
-[![An image of @itrich's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itrich)](https://holopin.io/@itrich)
+Eduard is a passionate advocate for open-source technology and is currently driving Free Open Source Software collaboration and upstream contributions at Porsche AG. 
 
-Hello, my name is Eduard Itrich! I'm an open-source community manager
-currently empowering the [Sovereign Cloud Stack](https://scs.community) community at the [OSB Alliance 
-(Open Source Business Alliance)](https://osb-alliance.com). After graduating from university,
-I was part of a software development team and responsible for the release management of a
-Linux enterprise distribution. Following up my two-year parental leave, during which 
-I orchestrated my twin daughters rather than continuous deployment pipelines, I became 
-the head of digitalization and IT of a medium-sized town in southwestern Germany.
-Ocassionally, I hang around at [Section77 e.V](https://section77.de/). — a local Hackspace in Offenburg.
-Follow me for varied content on Civic Tech, Open Source, and Open Infrastructure.
+After graduating in mathematics, Eduard was part of a software development team and responsible for the release management of a Linux enterprise distribution. Following his two-year parental leave, during which he orchestrated his twin daughters rather than continuous deployment pipelines, he became the head of digitalization and IT of the medium-sized town Bühl in southwestern Germany. From 2021 until 2023, Eduard empowered the Sovereign Cloud Stack community as Open Source Community Manager and enjoyed learning from an inspiring team and fellows.
